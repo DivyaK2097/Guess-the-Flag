@@ -2,11 +2,11 @@
 //each containing the name and source of a flag image.
 
 const flags = [
-    {name: "India", src:"india.jpg"},
-    {name: "Canada", src:"Canada.jpg"},
-    {name: "Nepal", src:"nepal.jpg"},
-    {name: "South Africa", src:"SouthAfrica.png"},
-    {name: "USA", src:"UnitedStates.jpg"}
+    {name: "India", src:"flags/images/india.jpg"},
+    {name: "Canada", src:"flags/images/Canada.jpg"},
+    {name: "Nepal", src:"flags/images/nepal.jpg"},
+    {name: "South Africa", src:"flags/images/SouthAfrica.png"},
+    {name: "USA", src:"flags/images/UnitedStates.jpg"}
 ];
 
 // Variable to hold the currently displayed flag
