@@ -53,10 +53,17 @@ body{
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    box-shadow: 0 10px #999;
 }
 
 #next-btn:hover{
     background-color: rgb(218, 63, 207);
+}
+
+#next-btn:active{
+    background-color: #8e3e83;
+    box-shadow: 0 5px #581143;
+    transform: translateY(2px);
 }
 
 #score-container{
